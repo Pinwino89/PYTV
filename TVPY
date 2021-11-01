@@ -1,4 +1,14 @@
-/live/Frontdemo12/Demofront13/45696.m3u8
+#EXTM3U
+#EXTINF:-1,PY: Telefuturo
+http://iptv.fronteratvonline.com:8080/live/Frontdemo12/Demofront13/45695.m3u8
+#EXTINF:-1,PY l ABC
+http://iptv.fronteratvonline.com:8080/live/Frontdemo12/Demofront13/45696.m3u8
+#EXTINF:-1,PY : C9N
+http://iptv.fronteratvonline.com:8080/live/Frontdemo12/Demofront13/45697.m3u8
+#EXTINF:-1,PY: GEN TV
+http://iptv.fronteratvonline.com:8080/live/Frontdemo12/Demofront13/45698.m3u8
+#EXTINF:-1,PY: NPY
+http://iptv.fronteratvonline.com:8080/live/Frontdemo12/Demofront13/45699.m3u8
 #EXTINF:-1,PY : C9N
 http://iptv.fronteratvonline.com:8080/live/Frontdemo12/Demofront13/45697.m3u8
 #EXTINF:-1,PY: GEN TV
